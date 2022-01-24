@@ -9,3 +9,4 @@ Setelah selesai di instal Baru jalankan Zello Fix nya
 <a href="https://github.com/sugex/zello-fix-2022/raw/main/zello%20fix%202022.exe">zello fix2022</a>
 
 <a href="https://my.zello.com/data/ZelloSetup.exe">zello v2.6</a>
+
