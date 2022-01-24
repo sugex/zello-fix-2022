@@ -9,4 +9,4 @@ Setelah selesai di instal Baru jalankan Zello Fix nya
 <a href="https://github.com/sugex/zello-fix-2022/raw/main/zello%20fix%202022.exe">zello fix2022</a>
 
 <a href="https://my.zello.com/data/ZelloSetup.exe">zello v2.6</a>
-
+Alternatif link <a href="https://file.download.io/windows/communications/chat-instant-messaging/zello/2.6.0.0/Zello-32-bit.exe">zello v2.6 lain</a>
